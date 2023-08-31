@@ -6,7 +6,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sql" />
+      <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
     </a>
     <br>
     <a href="https://skillicons.dev">
