@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋 It's Zanko
+
+<h1 align="center">Business Intelligence Developer and Data Scientist
+
+</h1>
+
 
 <!--
 **ZankoMohammadzadeh/ZankoMohammadzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
