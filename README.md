@@ -1,8 +1,10 @@
-### Hi 👋 It's Zanko
 
-<h1 align="center">Business Intelligence Developer and Data Scientist
+<h2 align="left "> 
+  Hi 👋 It's Zanko
+  
+  I am a Business Intelligence Developer and Data Scientist
 
-</h1>
+</h2>
 
 
 <!--
