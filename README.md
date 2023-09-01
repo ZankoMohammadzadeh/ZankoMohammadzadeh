@@ -25,10 +25,10 @@
   Here I will explain the essential skills and tools required for effectively manipulating, integrating and working with data to obtain results and generate reports. I will showcase these concepts through the demonstration of some of my projects.
 
 
-  Let's take an overview on our Categories...
+  Let's look at the big picture and take an overview on our categories..
 - BI foundamentals
 - SSIS Samples
-- Python Samples
+- Python (pandas) Samples
 
 
 
