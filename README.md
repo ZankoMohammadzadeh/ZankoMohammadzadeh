@@ -26,7 +26,7 @@
 
 
   Let's look at the big picture and take an overview on our categories..
-- [BI Foundamentals](https://github.com/ZankoMohammadzadeh/BI-Foundamentls/blob/main/README.md)
+- [BI Foundamentals](../BI-Foundamentls/blob/main/README.md)
 - SSIS Samples
 - Python (pandas) Samples
 
