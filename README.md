@@ -10,7 +10,7 @@
     </a>
     <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,azure,postgres,docker,linux" />
+      <img src="https://skillicons.dev/icons?i=azure,postgres,docker" />
     </a>
     <br>
     <a href="https://skillicons.dev">
