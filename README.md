@@ -27,8 +27,7 @@
 
   Let's look at the big picture and take an overview on our categories..
 - [BI Foundamentals](../../../BI-Foundamentals/)
-- SSIS Samples
-- Python (pandas) Samples
+- Python Samples
 
 
 
