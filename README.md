@@ -2,7 +2,7 @@
 <h2 align="left "> 
   Hi 👋 It's Zanko
   
-  I am a Business Intelligence Developer and Data Scientist.
+  I am a Business Intelligence Developer and Data Engineer.
 
   <p align="center">
     <a href="https://skillicons.dev">
